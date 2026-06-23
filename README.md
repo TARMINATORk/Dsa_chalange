@@ -8,6 +8,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0008-string-to-integer-atoi) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
