@@ -1,61 +1,38 @@
-import java.util.*;
-
 class Solution {
     public String minWindow(String s, String t) {
-
-        if (s.length() < t.length()) {
+        if(s.length()<t.length()){
             return "";
         }
-
-        Map<Character, Integer> need = new HashMap<>();
-        Map<Character, Integer> window = new HashMap<>();
-
-        // Store frequency of characters in t
-        for (char c : t.toCharArray()) {
-            need.put(c, need.getOrDefault(c, 0) + 1);
+        String ans="";
+        Map<Character,Integer>tmap=new HashMap<>();
+        for(char ch:t.toCharArray()){
+            tmap.put(ch,tmap.getOrDefault(ch,0)+1);
         }
+           
+        HashMap<Character,Integer>smap=new HashMap<>();
 
-        int have = 0;
-        int required = need.size();
-
-        int left = 0;
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-
-            char ch = s.charAt(right);
-            window.put(ch, window.getOrDefault(ch, 0) + 1);
-
-            // Character frequency matched
-            if (need.containsKey(ch) &&
-                window.get(ch).intValue() == need.get(ch).intValue()) {
-                have++;
+        int left=0;
+        int count=t.length();
+        int maxlen=Integer.MAX_VALUE;
+        for(int right=0;right<s.length();right++){
+            char ch=s.charAt(right);
+            smap.put(ch,smap.getOrDefault(ch,0)+1);
+            if(tmap.containsKey(ch)&& smap.get(ch)<=tmap.get(ch)){
+                count--;
             }
-
-            // Try to shrink the window
-            while (have == required) {
-
-                if ((right - left + 1) < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
+            while(count==0){
+                if(right-left+1<maxlen){
+                    maxlen=right-left+1;
+                    ans=s.substring(left,right+1);
                 }
-
-                char leftChar = s.charAt(left);
-
-                window.put(leftChar, window.get(leftChar) - 1);
-
-                if (need.containsKey(leftChar) &&
-                    window.get(leftChar) < need.get(leftChar)) {
-                    have--;
+                char l=s.charAt(left);
+                smap.put(l,smap.getOrDefault(l,0)-1);
+                if(tmap.containsKey(l) && smap.get(l)<tmap.get(l)){
+                    count++;
                 }
-
                 left++;
             }
         }
-
-        return minLen == Integer.MAX_VALUE
-                ? ""
-                : s.substring(start, start + minLen);
+        return ans;
     }
 }
