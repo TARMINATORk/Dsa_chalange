@@ -46,6 +46,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -75,9 +76,11 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
