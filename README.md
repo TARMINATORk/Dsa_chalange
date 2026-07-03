@@ -25,6 +25,7 @@ This is my new repository for daily leetcode problemsolving
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -71,12 +72,14 @@ This is my new repository for daily leetcode problemsolving
 | [0076-minimum-window-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
