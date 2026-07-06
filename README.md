@@ -47,6 +47,7 @@ This is my new repository for daily leetcode problemsolving
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
@@ -81,6 +82,7 @@ This is my new repository for daily leetcode problemsolving
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +92,7 @@ This is my new repository for daily leetcode problemsolving
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
