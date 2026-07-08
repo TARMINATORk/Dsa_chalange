@@ -1,7 +1,8 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> st = new Stack<>();
         int num = 0;
+        int result=0;
+        int last=0;
         char sign = '+';
 
         for (int i = 0; i <= s.length(); i++) {
@@ -14,16 +15,18 @@ class Solution {
             else if (ch != ' ') {
 
                 if (sign == '+') {
-                    st.push(num);
+                    result+=last;
+                    last=num;
                 } 
                 else if (sign == '-') {
-                    st.push(-num);
+                   result+=last;
+                   last=-num;
                 } 
                 else if (sign == '*') {
-                    st.push(st.pop() * num);
+                   last=last*num;
                 } 
                 else if (sign == '/') {
-                    st.push(st.pop() / num);
+                    last=last/num;
                 }
 
                 num = 0;
@@ -31,11 +34,8 @@ class Solution {
             }
         }
 
-        int ans = 0;
-        while (!st.isEmpty()) {
-            ans += st.pop();
-        }
+       
 
-        return ans;
+        return result+last;
     }
 }
