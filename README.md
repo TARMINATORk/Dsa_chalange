@@ -12,6 +12,7 @@ This is my new repository for daily leetcode problemsolving
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
@@ -51,6 +52,7 @@ This is my new repository for daily leetcode problemsolving
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
@@ -117,4 +119,8 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
