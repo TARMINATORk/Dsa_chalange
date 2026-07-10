@@ -51,6 +51,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
@@ -75,6 +76,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
@@ -101,6 +104,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
@@ -127,4 +131,8 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
