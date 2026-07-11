@@ -22,6 +22,7 @@ This is my new repository for daily leetcode problemsolving
 | [0844-backspace-string-compare](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This is my new repository for daily leetcode problemsolving
 | [0844-backspace-string-compare](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
