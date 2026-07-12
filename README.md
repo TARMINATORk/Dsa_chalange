@@ -20,6 +20,7 @@ This is my new repository for daily leetcode problemsolving
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -64,6 +65,7 @@ This is my new repository for daily leetcode problemsolving
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -79,6 +81,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
