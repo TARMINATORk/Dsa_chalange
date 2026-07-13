@@ -10,6 +10,7 @@ This is my new repository for daily leetcode problemsolving
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
@@ -55,6 +56,7 @@ This is my new repository for daily leetcode problemsolving
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -88,6 +90,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
