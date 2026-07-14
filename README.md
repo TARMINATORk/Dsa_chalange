@@ -15,6 +15,7 @@ This is my new repository for daily leetcode problemsolving
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
@@ -63,6 +64,7 @@ This is my new repository for daily leetcode problemsolving
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
@@ -84,6 +86,7 @@ This is my new repository for daily leetcode problemsolving
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
@@ -120,6 +123,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
