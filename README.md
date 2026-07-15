@@ -26,6 +26,7 @@ This is my new repository for daily leetcode problemsolving
 | [0856-score-of-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Table
@@ -75,6 +76,7 @@ This is my new repository for daily leetcode problemsolving
 | [0856-score-of-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
