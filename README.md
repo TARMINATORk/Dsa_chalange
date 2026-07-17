@@ -117,6 +117,7 @@ This is my new repository for daily leetcode problemsolving
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
@@ -136,6 +137,7 @@ This is my new repository for daily leetcode problemsolving
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
