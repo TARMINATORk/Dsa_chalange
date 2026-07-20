@@ -114,6 +114,7 @@ This is my new repository for daily leetcode problemsolving
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -137,6 +138,7 @@ This is my new repository for daily leetcode problemsolving
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
