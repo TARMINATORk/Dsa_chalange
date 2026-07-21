@@ -119,6 +119,7 @@ This is my new repository for daily leetcode problemsolving
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
@@ -142,6 +143,7 @@ This is my new repository for daily leetcode problemsolving
 | [0033-search-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
