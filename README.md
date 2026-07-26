@@ -129,6 +129,7 @@ This is my new repository for daily leetcode problemsolving
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
@@ -152,6 +153,7 @@ This is my new repository for daily leetcode problemsolving
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
 | ------- |
