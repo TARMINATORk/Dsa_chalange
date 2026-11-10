@@ -43,6 +43,7 @@ This is my new repository for daily leetcode problemsolving
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -83,6 +84,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0680-valid-palindrome-ii) |
@@ -117,6 +119,7 @@ This is my new repository for daily leetcode problemsolving
 | [0033-search-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -196,4 +199,12 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0111-minimum-depth-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
