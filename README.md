@@ -40,6 +40,7 @@ This is my new repository for daily leetcode problemsolving
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ This is my new repository for daily leetcode problemsolving
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
@@ -136,6 +138,7 @@ This is my new repository for daily leetcode problemsolving
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
