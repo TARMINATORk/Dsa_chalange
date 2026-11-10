@@ -43,6 +43,7 @@ This is my new repository for daily leetcode problemsolving
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -84,6 +85,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
@@ -116,6 +118,7 @@ This is my new repository for daily leetcode problemsolving
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
