@@ -113,6 +113,7 @@ This is my new repository for daily leetcode problemsolving
 | [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
+| [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -143,6 +144,7 @@ This is my new repository for daily leetcode problemsolving
 | [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0560-subarray-sum-equals-k) |
@@ -173,6 +175,7 @@ This is my new repository for daily leetcode problemsolving
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -245,4 +248,8 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0128-longest-consecutive-sequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
