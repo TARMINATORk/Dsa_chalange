@@ -105,6 +105,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -125,6 +126,7 @@ This is my new repository for daily leetcode problemsolving
 | [0033-search-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
@@ -216,4 +218,8 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
