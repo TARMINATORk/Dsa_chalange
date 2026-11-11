@@ -35,6 +35,7 @@ This is my new repository for daily leetcode problemsolving
 | [0003-longest-substring-without-repeating-characters](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
@@ -135,6 +136,7 @@ This is my new repository for daily leetcode problemsolving
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
@@ -239,4 +241,8 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
