@@ -112,6 +112,7 @@ This is my new repository for daily leetcode problemsolving
 | [0005-longest-palindromic-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
@@ -194,6 +195,7 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0227-basic-calculator-ii) |
@@ -252,4 +254,8 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
