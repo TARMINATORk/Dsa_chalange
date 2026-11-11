@@ -35,6 +35,7 @@ This is my new repository for daily leetcode problemsolving
 | [0003-longest-substring-without-repeating-characters](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@ This is my new repository for daily leetcode problemsolving
 | ------- |
 | [0015-3sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -61,6 +63,7 @@ This is my new repository for daily leetcode problemsolving
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -135,6 +138,7 @@ This is my new repository for daily leetcode problemsolving
 | [0150-evaluate-reverse-polish-notation](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0496-next-greater-element-i) |
@@ -225,9 +229,14 @@ This is my new repository for daily leetcode problemsolving
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
