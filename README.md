@@ -116,6 +116,7 @@ This is my new repository for daily leetcode problemsolving
 | [0085-maximal-rectangle](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This is my new repository for daily leetcode problemsolving
 | [0560-subarray-sum-equals-k](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/TARMINATORk/Dsa_chalange/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TARMINATORk/Dsa_chalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
